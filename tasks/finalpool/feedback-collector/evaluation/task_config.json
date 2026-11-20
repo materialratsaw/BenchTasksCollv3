@@ -1,0 +1,11 @@
+{
+  "id": "feedback-collector",
+  "name": "feedback-collector",
+  "description": "Complete the implementation for feedback-collector.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

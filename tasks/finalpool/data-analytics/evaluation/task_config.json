@@ -1,0 +1,11 @@
+{
+  "id": "data-analytics",
+  "name": "data-analytics",
+  "description": "Complete the implementation for data-analytics.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

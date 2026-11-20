@@ -1,0 +1,11 @@
+{
+  "id": "image-processor",
+  "name": "image-processor",
+  "description": "Complete the implementation for image-processor.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

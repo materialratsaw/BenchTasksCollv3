@@ -1,0 +1,11 @@
+{
+  "id": "deal-manager",
+  "name": "deal-manager",
+  "description": "Complete the implementation for deal-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

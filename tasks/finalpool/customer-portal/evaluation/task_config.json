@@ -1,0 +1,11 @@
+{
+  "id": "customer-portal",
+  "name": "customer-portal",
+  "description": "Complete the implementation for customer-portal.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

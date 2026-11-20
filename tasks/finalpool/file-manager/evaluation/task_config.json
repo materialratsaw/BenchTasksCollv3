@@ -1,0 +1,11 @@
+{
+  "id": "file-manager",
+  "name": "file-manager",
+  "description": "Complete the implementation for file-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

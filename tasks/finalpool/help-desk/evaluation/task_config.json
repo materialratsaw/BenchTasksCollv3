@@ -1,0 +1,11 @@
+{
+  "id": "help-desk",
+  "name": "help-desk",
+  "description": "Complete the implementation for help-desk.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

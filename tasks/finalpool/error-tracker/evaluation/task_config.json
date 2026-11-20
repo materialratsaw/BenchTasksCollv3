@@ -1,0 +1,11 @@
+{
+  "id": "error-tracker",
+  "name": "error-tracker",
+  "description": "Complete the implementation for error-tracker.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

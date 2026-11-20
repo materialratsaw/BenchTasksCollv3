@@ -1,0 +1,11 @@
+{
+  "id": "follow-up-reminder",
+  "name": "follow-up-reminder",
+  "description": "Complete the implementation for follow-up-reminder.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

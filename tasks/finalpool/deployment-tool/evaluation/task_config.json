@@ -1,0 +1,11 @@
+{
+  "id": "deployment-tool",
+  "name": "deployment-tool",
+  "description": "Complete the implementation for deployment-tool.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

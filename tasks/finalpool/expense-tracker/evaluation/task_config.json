@@ -1,0 +1,11 @@
+{
+  "id": "expense-tracker",
+  "name": "expense-tracker",
+  "description": "Complete the implementation for expense-tracker.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

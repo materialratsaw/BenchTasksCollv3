@@ -1,0 +1,11 @@
+{
+  "id": "inventory-management",
+  "name": "inventory-management",
+  "description": "Complete the implementation for inventory-management.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

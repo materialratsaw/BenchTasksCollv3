@@ -1,0 +1,11 @@
+{
+  "id": "health-monitor",
+  "name": "health-monitor",
+  "description": "Complete the implementation for health-monitor.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

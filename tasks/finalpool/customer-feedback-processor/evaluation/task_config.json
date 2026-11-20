@@ -1,0 +1,11 @@
+{
+  "id": "customer-feedback-processor",
+  "name": "customer-feedback-processor",
+  "description": "Complete the implementation for customer-feedback-processor.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

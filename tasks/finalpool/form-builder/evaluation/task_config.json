@@ -1,0 +1,11 @@
+{
+  "id": "form-builder",
+  "name": "form-builder",
+  "description": "Complete the implementation for form-builder.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

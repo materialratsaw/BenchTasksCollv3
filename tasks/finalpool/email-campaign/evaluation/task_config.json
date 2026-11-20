@@ -1,0 +1,11 @@
+{
+  "id": "email-campaign",
+  "name": "email-campaign",
+  "description": "Complete the implementation for email-campaign.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

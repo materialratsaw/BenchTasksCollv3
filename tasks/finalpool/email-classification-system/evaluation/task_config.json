@@ -1,0 +1,11 @@
+{
+  "id": "email-classification-system",
+  "name": "email-classification-system",
+  "description": "Complete the implementation for email-classification-system.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
