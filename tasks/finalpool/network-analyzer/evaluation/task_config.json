@@ -1,0 +1,11 @@
+{
+  "id": "network-analyzer",
+  "name": "network-analyzer",
+  "description": "Complete the implementation for network-analyzer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

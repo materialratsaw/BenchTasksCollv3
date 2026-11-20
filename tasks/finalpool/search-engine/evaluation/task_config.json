@@ -1,0 +1,11 @@
+{
+  "id": "search-engine",
+  "name": "search-engine",
+  "description": "Complete the implementation for search-engine.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

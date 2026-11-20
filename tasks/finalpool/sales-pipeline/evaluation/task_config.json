@@ -1,0 +1,11 @@
+{
+  "id": "sales-pipeline",
+  "name": "sales-pipeline",
+  "description": "Complete the implementation for sales-pipeline.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

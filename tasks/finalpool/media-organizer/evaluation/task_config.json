@@ -1,0 +1,11 @@
+{
+  "id": "media-organizer",
+  "name": "media-organizer",
+  "description": "Complete the implementation for media-organizer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "payment-processor",
+  "name": "payment-processor",
+  "description": "Complete the implementation for payment-processor.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "price-tracker",
+  "name": "price-tracker",
+  "description": "Complete the implementation for price-tracker.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

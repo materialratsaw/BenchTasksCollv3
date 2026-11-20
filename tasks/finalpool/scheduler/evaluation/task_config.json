@@ -1,0 +1,11 @@
+{
+  "id": "scheduler",
+  "name": "scheduler",
+  "description": "Complete the implementation for scheduler.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

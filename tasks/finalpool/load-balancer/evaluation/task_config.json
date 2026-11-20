@@ -1,0 +1,11 @@
+{
+  "id": "load-balancer",
+  "name": "load-balancer",
+  "description": "Complete the implementation for load-balancer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

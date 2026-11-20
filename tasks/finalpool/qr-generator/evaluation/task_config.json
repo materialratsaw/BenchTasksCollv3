@@ -1,0 +1,11 @@
+{
+  "id": "qr-generator",
+  "name": "qr-generator",
+  "description": "Complete the implementation for qr-generator.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

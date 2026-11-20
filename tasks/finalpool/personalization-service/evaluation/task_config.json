@@ -1,0 +1,11 @@
+{
+  "id": "personalization-service",
+  "name": "personalization-service",
+  "description": "Complete the implementation for personalization-service.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

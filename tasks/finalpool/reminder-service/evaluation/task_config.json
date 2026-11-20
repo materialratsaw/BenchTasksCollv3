@@ -1,0 +1,11 @@
+{
+  "id": "reminder-service",
+  "name": "reminder-service",
+  "description": "Complete the implementation for reminder-service.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

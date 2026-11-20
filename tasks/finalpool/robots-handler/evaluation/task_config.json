@@ -1,0 +1,11 @@
+{
+  "id": "robots-handler",
+  "name": "robots-handler",
+  "description": "Complete the implementation for robots-handler.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

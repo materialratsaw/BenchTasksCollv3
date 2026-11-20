@@ -1,0 +1,11 @@
+{
+  "id": "loyalty-program",
+  "name": "loyalty-program",
+  "description": "Complete the implementation for loyalty-program.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

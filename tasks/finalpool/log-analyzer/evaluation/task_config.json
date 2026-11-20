@@ -1,0 +1,11 @@
+{
+  "id": "log-analyzer",
+  "name": "log-analyzer",
+  "description": "Complete the implementation for log-analyzer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

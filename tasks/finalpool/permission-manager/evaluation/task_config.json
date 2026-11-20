@@ -1,0 +1,11 @@
+{
+  "id": "permission-manager",
+  "name": "permission-manager",
+  "description": "Complete the implementation for permission-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

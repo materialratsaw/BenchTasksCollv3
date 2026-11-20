@@ -1,0 +1,11 @@
+{
+  "id": "security-scanner",
+  "name": "security-scanner",
+  "description": "Complete the implementation for security-scanner.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

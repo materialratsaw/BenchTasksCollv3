@@ -1,0 +1,11 @@
+{
+  "id": "product-catalog",
+  "name": "product-catalog",
+  "description": "Complete the implementation for product-catalog.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
