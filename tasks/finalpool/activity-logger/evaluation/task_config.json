@@ -1,0 +1,11 @@
+{
+  "id": "activity-logger",
+  "name": "activity-logger",
+  "description": "Complete the implementation for activity-logger.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
