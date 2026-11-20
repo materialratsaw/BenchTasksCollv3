@@ -1,0 +1,11 @@
+{
+  "id": "storage-manager",
+  "name": "storage-manager",
+  "description": "Complete the implementation for storage-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

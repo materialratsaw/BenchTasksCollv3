@@ -1,0 +1,11 @@
+{
+  "id": "translation-api",
+  "name": "translation-api",
+  "description": "Complete the implementation for translation-api.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

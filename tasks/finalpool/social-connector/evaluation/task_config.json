@@ -1,0 +1,11 @@
+{
+  "id": "social-connector",
+  "name": "social-connector",
+  "description": "Complete the implementation for social-connector.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

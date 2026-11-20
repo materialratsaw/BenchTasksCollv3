@@ -1,0 +1,11 @@
+{
+  "id": "web-crawler",
+  "name": "web-crawler",
+  "description": "Complete the implementation for web-crawler.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

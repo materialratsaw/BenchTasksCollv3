@@ -1,0 +1,11 @@
+{
+  "id": "task-scheduler",
+  "name": "task-scheduler",
+  "description": "Complete the implementation for task-scheduler.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

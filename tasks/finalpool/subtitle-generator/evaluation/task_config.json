@@ -1,0 +1,11 @@
+{
+  "id": "subtitle-generator",
+  "name": "subtitle-generator",
+  "description": "Complete the implementation for subtitle-generator.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "tag-manager",
+  "name": "tag-manager",
+  "description": "Complete the implementation for tag-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

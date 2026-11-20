@@ -1,0 +1,11 @@
+{
+  "id": "voice-processor",
+  "name": "voice-processor",
+  "description": "Complete the implementation for voice-processor.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

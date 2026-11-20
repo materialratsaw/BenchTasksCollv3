@@ -1,0 +1,11 @@
+{
+  "id": "sitemap-generator",
+  "name": "sitemap-generator",
+  "description": "Complete the implementation for sitemap-generator.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

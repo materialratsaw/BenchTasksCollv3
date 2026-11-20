@@ -1,0 +1,11 @@
+{
+  "id": "template-engine",
+  "name": "template-engine",
+  "description": "Complete the implementation for template-engine.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

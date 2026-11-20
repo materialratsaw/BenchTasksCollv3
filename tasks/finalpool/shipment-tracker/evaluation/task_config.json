@@ -1,0 +1,11 @@
+{
+  "id": "shipment-tracker",
+  "name": "shipment-tracker",
+  "description": "Complete the implementation for shipment-tracker.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

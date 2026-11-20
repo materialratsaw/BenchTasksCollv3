@@ -1,0 +1,11 @@
+{
+  "id": "video-trimmer",
+  "name": "video-trimmer",
+  "description": "Complete the implementation for video-trimmer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

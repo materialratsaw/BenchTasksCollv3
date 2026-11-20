@@ -1,0 +1,11 @@
+{
+  "id": "sentiment-analyzer",
+  "name": "sentiment-analyzer",
+  "description": "Complete the implementation for sentiment-analyzer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

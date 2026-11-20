@@ -1,0 +1,11 @@
+{
+  "id": "streaming-service",
+  "name": "streaming-service",
+  "description": "Complete the implementation for streaming-service.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

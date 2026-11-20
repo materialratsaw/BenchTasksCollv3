@@ -1,0 +1,11 @@
+{
+  "id": "status-checker",
+  "name": "status-checker",
+  "description": "Complete the implementation for status-checker.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
