@@ -1,0 +1,11 @@
+{
+  "id": "cache-optimizer",
+  "name": "cache-optimizer",
+  "description": "Complete the implementation for cache-optimizer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

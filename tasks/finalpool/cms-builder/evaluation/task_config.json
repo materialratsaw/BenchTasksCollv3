@@ -1,0 +1,11 @@
+{
+  "id": "cms-builder",
+  "name": "cms-builder",
+  "description": "Complete the implementation for cms-builder.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

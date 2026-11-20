@@ -1,0 +1,11 @@
+{
+  "id": "content-manager",
+  "name": "content-manager",
+  "description": "Complete the implementation for content-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

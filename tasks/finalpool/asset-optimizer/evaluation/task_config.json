@@ -1,0 +1,11 @@
+{
+  "id": "asset-optimizer",
+  "name": "asset-optimizer",
+  "description": "Complete the implementation for asset-optimizer.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

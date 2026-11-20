@@ -1,0 +1,11 @@
+{
+  "id": "canvas-grade-automation",
+  "name": "canvas-grade-automation",
+  "description": "Complete the implementation for canvas-grade-automation.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

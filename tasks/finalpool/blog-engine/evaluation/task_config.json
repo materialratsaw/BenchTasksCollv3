@@ -1,0 +1,11 @@
+{
+  "id": "blog-engine",
+  "name": "blog-engine",
+  "description": "Complete the implementation for blog-engine.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

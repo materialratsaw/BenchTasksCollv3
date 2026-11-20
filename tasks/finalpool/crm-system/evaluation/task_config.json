@@ -1,0 +1,11 @@
+{
+  "id": "crm-system",
+  "name": "crm-system",
+  "description": "Complete the implementation for crm-system.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

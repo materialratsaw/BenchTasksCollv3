@@ -1,0 +1,11 @@
+{
+  "id": "analytics-dashboard",
+  "name": "analytics-dashboard",
+  "description": "Complete the implementation for analytics-dashboard.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

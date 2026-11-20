@@ -1,0 +1,11 @@
+{
+  "id": "alert-system",
+  "name": "alert-system",
+  "description": "Complete the implementation for alert-system.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "contact-manager",
+  "name": "contact-manager",
+  "description": "Complete the implementation for contact-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}

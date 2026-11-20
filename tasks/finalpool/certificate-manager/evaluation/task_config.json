@@ -1,0 +1,11 @@
+{
+  "id": "certificate-manager",
+  "name": "certificate-manager",
+  "description": "Complete the implementation for certificate-manager.",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
